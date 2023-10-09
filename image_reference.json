@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2023-10-8",
+        "name": "Baily Lighthouse",
+        "photographer": "ClickAlps",
+        "oc_link": "https://stock.adobe.com/images/baily-lighthouse-howth-county-dublin-ireland-europe/141788222",
+        "location": "53.365838, -6.055261",
+        "wiki": "https://en.wikipedia.org/wiki/Baily_Lighthouse",
+        "country": "IE",
+        "nearest_airport": "EIDW",
+        "distance": 8,
+        "plan": "flight plant to get to the target"
+    },
+    {
+        "date": "2023-10-9",
+        "name": "Palace da Pena",
+        "photographer": "Taiga",
+        "oc_link": "https://www.shutterstock.com/image-photo/aerial-view-palace-da-pena-sintra-219148864",
+        "location": "38.790189, -9.389207",
+        "wiki": "https://en.wikipedia.org/wiki/Pena_Palace",
+        "country": "PT",
+        "nearest_airport": "LPCS",
+        "distance": 4,
+        "plan": "flight plant to get to the target"
+    }
+]
