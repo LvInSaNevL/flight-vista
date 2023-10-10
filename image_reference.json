@@ -1,5 +1,17 @@
 [
     {
+        "date": "2023-10-7",
+        "name": "Sugarloaf Mountain in Rio de Janeiro",
+        "photographer": "ClickAlps",
+        "oc_link": "https://www.shutterstock.com/image-photo/brazil-city-rio-de-janeiro-corcovado-522152656",
+        "location": "-22.948713, -43.157200",
+        "wiki": "https://en.wikipedia.org/wiki/Sugarloaf_Mountain",
+        "country": "BR",
+        "nearest_airport": "SIWV",
+        "distance": 12,
+        "plan": "flight plan to get to the target"
+    },
+    {
         "date": "2023-10-8",
         "name": "Baily Lighthouse",
         "photographer": "ClickAlps",
@@ -9,7 +21,7 @@
         "country": "IE",
         "nearest_airport": "EIDW",
         "distance": 8,
-        "plan": "flight plant to get to the target"
+        "plan": "flight plan to get to the target"
     },
     {
         "date": "2023-10-9",
@@ -21,6 +33,6 @@
         "country": "PT",
         "nearest_airport": "LPCS",
         "distance": 4,
-        "plan": "flight plant to get to the target"
+        "plan": "flight plan to get to the target"
     }
 ]
