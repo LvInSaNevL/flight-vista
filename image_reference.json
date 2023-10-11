@@ -34,5 +34,17 @@
         "nearest_airport": "LPCS",
         "distance": 4,
         "plan": "flight plan to get to the target"
+    },
+    {
+        "date": "2023-10-11",
+        "name": "Széchenyi Chain Bridge",
+        "photographer": "Grand Tour",
+        "oc_link": "https://stock.adobe.com/images/Chain-Bridge-over-the-river-Danube-with-the-Buda-Castle-in-background/195480110",
+        "location": "47.499045, 19.043707",
+        "wiki": "https://en.wikipedia.org/wiki/Sz%C3%A9chenyi_Chain_Bridge",
+        "country": "HU",
+        "nearest_airport": "LHBP",
+        "distance": 10,
+        "plan": "flight plan to get to the target"
     }
 ]
