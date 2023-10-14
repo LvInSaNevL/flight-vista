@@ -1,0 +1,117 @@
+[
+    {
+        "date": "2023-10-01",
+        "name": "Arch Rock, Joshua Tree National Park",
+        "photographer": "Sebastián López",
+        "oc_link": "https://www.flickr.com/photos/sebalopez/34248668120/",
+        "location": "33.986218, -116.015547",
+        "country": "US",
+        "nearest_airport": "KTNP",
+        "distance": 9,
+        "plan": ""
+    },
+    {
+        "date": "2023-10-03",
+        "name": "Castelo de Almourol",
+        "photographer": "Jon Arnold",
+        "oc_link": "https://www.alamy.com/stock-photo-almourol-castle-set-on-a-island-on-rio-tejo-ribatejo-province-portugal-20199483.html",
+        "location": "39.461993, -8.383824",
+        "country": "PT",
+        "nearest_airport": "LPTN",
+        "distance": 1,
+        "plan": ""
+    },
+    {
+        "date": "2023-10-04",
+        "name": "Smitswinkel Bay",
+        "photographer": "Danie Spreeth",
+        "oc_link": "https://www.alamy.com/stock-photo-smitswinkel-bay-morning-25-june-2016-110303750.html",
+        "location": "-34.262075, 18.466561",
+        "country": "ZA",
+        "nearest_airport": "FACT",
+        "distance": 19,
+        "plan": ""
+    },
+    {
+        "date": "2023-10-05",
+        "name": "St. Mary Lake, Glavier National Park",
+        "photographer": "Lantern Press",
+        "oc_link": "https://www.art.com/products/p55491903293-sa-i10283303/lantern-press-glacier-national-park-montana-st-mary-lake-and-sunset.htm",
+        "location": "48.692189, -113.531669",
+        "country": "US",
+        "nearest_airport": "KGPI",
+        "distance": 37,
+        "plan": ""
+    },
+    {
+        "date": "2023-10-06",
+        "name": "Pulau Ubin",
+        "photographer": "AliB_Photography",
+        "oc_link": "https://www.cnnindonesia.com/gaya-hidup/20160509163606-269-129505/sembilan-tempat-unik-di-asia-yang-belum-dilirik-turis",
+        "location": "1.408073, 103.955867",
+        "country": "SG",
+        "nearest_airport": "WSAP",
+        "distance": 4,
+        "plan": ""
+    },
+    {
+        "date": "ISO Date that the image was used",
+        "name": "The name of the location/photograph",
+        "photographer": "The original photographer",
+        "oc_link": "Link to the original photo",
+        "location": "The latitude and longitude of the photo, to 6 digits of precision",
+        "wiki": "URL to the wikipedia page for the location",
+        "country": "The 2-character country code",
+        "nearest_airport": "Nearest airstrip",
+        "distance": "distance in NM from the airport to target",
+        "plan": "flight plant to get to the target"
+    },
+    {
+        "date": "2023-10-7",
+        "name": "Sugarloaf Mountain in Rio de Janeiro",
+        "photographer": "ClickAlps",
+        "oc_link": "https://www.shutterstock.com/image-photo/brazil-city-rio-de-janeiro-corcovado-522152656",
+        "location": "-22.948713, -43.157200",
+        "wiki": "https://en.wikipedia.org/wiki/Sugarloaf_Mountain",
+        "country": "BR",
+        "nearest_airport": "SIWV",
+        "distance": 12,
+        "plan": "flight plan to get to the target"
+    },
+    {
+        "date": "2023-10-8",
+        "name": "Baily Lighthouse",
+        "photographer": "ClickAlps",
+        "oc_link": "https://stock.adobe.com/images/baily-lighthouse-howth-county-dublin-ireland-europe/141788222",
+        "location": "53.365838, -6.055261",
+        "wiki": "https://en.wikipedia.org/wiki/Baily_Lighthouse",
+        "country": "IE",
+        "nearest_airport": "EIDW",
+        "distance": 8,
+        "plan": "flight plan to get to the target"
+    },
+    {
+        "date": "2023-10-9",
+        "name": "Palace da Pena",
+        "photographer": "Taiga",
+        "oc_link": "https://www.shutterstock.com/image-photo/aerial-view-palace-da-pena-sintra-219148864",
+        "location": "38.790189, -9.389207",
+        "wiki": "https://en.wikipedia.org/wiki/Pena_Palace",
+        "country": "PT",
+        "nearest_airport": "LPCS",
+        "distance": 4,
+        "plan": "flight plan to get to the target"
+    },
+    {
+        "date": "2023-10-11",
+        "name": "Széchenyi Chain Bridge",
+        "photographer": "Grand Tour",
+        "oc_link": "https://stock.adobe.com/images/Chain-Bridge-over-the-river-Danube-with-the-Buda-Castle-in-background/195480110",
+        "location": "47.499045, 19.043707",
+        "wiki": "https://en.wikipedia.org/wiki/Sz%C3%A9chenyi_Chain_Bridge",
+        "country": "HU",
+        "nearest_airport": "LHBP",
+        "distance": 10,
+        "plan": "flight plan to get to the target"
+    }
+]

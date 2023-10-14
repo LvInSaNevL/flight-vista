@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.container{
+    display: flex;  
+    flex-direction: row;    
+}
+
+.sidebar { 
+    background-color: red;
+    border: 3px dashed black; 
+    width: 25vw; 
+    height: 100vh;
+}
+
+.map {
+    background-color: blue;
+    border: 3px dashed black; 
+    width: 75vw;
+    height: 100vh;
+}
