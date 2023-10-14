@@ -55,18 +55,6 @@
         "plan": ""
     },
     {
-        "date": "ISO Date that the image was used",
-        "name": "The name of the location/photograph",
-        "photographer": "The original photographer",
-        "oc_link": "Link to the original photo",
-        "location": "The latitude and longitude of the photo, to 6 digits of precision",
-        "wiki": "URL to the wikipedia page for the location",
-        "country": "The 2-character country code",
-        "nearest_airport": "Nearest airstrip",
-        "distance": "distance in NM from the airport to target",
-        "plan": "flight plant to get to the target"
-    },
-    {
         "date": "2023-10-7",
         "name": "Sugarloaf Mountain in Rio de Janeiro",
         "photographer": "ClickAlps",
