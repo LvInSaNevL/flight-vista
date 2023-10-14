@@ -4,7 +4,7 @@ function domLoad() {
 
 function loadLocations() {
     var imageData;
-    getData("https://gist.githubusercontent.com/LvInSaNevL/7ee67b34e03f8b735acef94c367b9564/raw/7ec9bf744041066ce9a1390751fb5bb436197fc3/flight_test_data.json", function(text){
+    getData("https://raw.githubusercontent.com/LvInSaNevL/flight-vista/main/Images/image_reference.json", function(text){
         var JSON_object = JSON.parse(text);
         imageData = JSON_object;
     });
